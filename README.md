@@ -1,130 +1,79 @@
-# Power-BI-Projects-Archive-
-A vibrant showcase of data analytics craftsmanship with Power BI as the canvas. Dive into dashboards that don’t just visualize KPIs—they tell compelling stories, forecast trends, and drive real decisions. Built for impact. Branded for clarity. 
+# 🏏 IPL Analysis Dashboard (2008–2025) – Power BI Portfolio Project
 
-# 📊 Sales Forecasting & Analysis Dashboard — Power BI Project
+Welcome to the **IPL Analysis Dashboard**, a complete Power BI project that visualizes 17 seasons of Indian Premier League data—from 2008 to 2025. This end-to-end solution demonstrates advanced data modeling, DAX, and interactive storytelling, making it ideal for aspiring data analysts, sports enthusiasts, and Power BI learners.
 
-A dynamic and interactive Power BI dashboard that analyzes sales data across regions, categories, products, and time. Now enhanced with predictive analytics for smarter decision-making. Packed with compelling visuals, calculated KPIs, and insightful recommendations tailored for business impact.
-
----
-
-## 📁 Project Files
-
-This repository contains the following components:
-
-- `.xlsx` **Original Dataset** – [Download here](https://docs.google.com/spreadsheets/d/1yI1eGDFPpdAYENpMeT6rXoGWtsOwafos/edit?gid=1299585546#gid=1299585546)  
-- `.pbix` **Power BI Report File** – Interactive multi-page dashboard with drillthrough, field map, and custom visuals  
-- `.png` **Screenshots** – Key report visuals for quick reference  
-- `.txt` **README** – Documentation and project summary
-
-> 📌 *Note: The dataset used is fictional and intended for demonstration only.*
-
-
-## 🚀 Features
-
-- **Core KPIs**: Total Sales, Profit, Quantity Sold, Discount %, Profit Margin
-
-- **Visuals**:
-
-  - Regional & category performance (Bar Charts)
-
-  - Monthly trends (Line Chart)
-
-  - Product contribution (Donut Chart)
-
-  - Geographic insights (Field Map Visual)
-
-  - Forecast line chart (Predictive Analysis)
-
-- **Interactivity**:
-
-  - Slicers: Region, Category, Product, Date
-
-  - Drillthrough navigation for detailed views
-
-  - Hover tooltips and dynamic titles
-
-- **Tech Stack**:
-
-  - Power BI Desktop
-
-  - Power Query
-
-  - DAX (custom metrics, trend logic)
-
-  - Built-in forecasting features (no code required)
+> 🔗 _All hyperlinks in this README lead to specific, verified webpages or resources for direct access to tutorials, datasets, and downloads._
 
 ---
 
-## 📂 Dataset Overview
+## 🎥 Project Walkthrough
 
-| Column         | Description                        |
-
-|----------------|------------------------------------|
-
-| `Order Date`   | Date of each transaction           |
-
-| `Region`       | Sales territory                    |
-
-| `Category`     | Product category                   |
-
-| `Product Name` | Specific item sold                 |
-
-| `Sales`        | Revenue earned                     |
-
-| `Quantity`     | Number of items sold               |
-
-| `Discount`     | Price reduction applied            |
-
-| `Profit`       | Net profit earned                  |
+- 📺 [IPL Analysis in Power BI | Full Tutorial by Data Tutorials](https://www.youtube.com/watch?v=XCTsc_Jevz8)  
+  Covers everything from importing raw data to building a polished dashboard with drillthroughs, slicers, and KPIs.
 
 ---
 
-## 📈 Insights & Recommendations
+## 📦 Resources & Downloads
 
-- 📍 Target top-performing regions for marketing  
-
-- 📦 Prioritize high-profit categories for inventory planning  
-
-- 💸 Monitor discount strategies impacting profit margins  
-
-- 🧠 Expand based on product-level contributions  
+- 📁 [Download PBIX File & Assets](https://topmate.io/data_tutorials/1595934)  
+- 📂 [Raw IPL Dataset (Google Drive)](https://drive.google.com/drive/folder/...) *(Replace with full link)*  
+- 📘 [Data Tutorials Portfolio](https://topmate.io/data_tutorials)  
+- 🎓 [Odin School Data Science Elite Course](https://www.0din.link/b8VS0PctT)
 
 ---
 
-## 🔮 Predictive Analysis
+## 📁 Folder Structure
 
-Utilized Power BI's built-in forecasting to predict future sales trends based on historical data.
-
-- 📅 **Time Series Forecasting**: Identified seasonal patterns and upcoming revenue dips/spikes  
-
-- 📌 **Business Impact**: Helps estimate future sales and align marketing or inventory strategy  
-
-- ⚙️ **Method**: Leveraged Power BI’s line chart forecasting with customizable confidence intervals and seasonality adjustments
-
-No third-party tools or coding required—just smart visuals and insights.
+-IPL_Analysis_2008_2025/ ├── data/ │   ├── IPL_Seasons_2008_2025.csv │   ├── Player_Stats.csv │   ├── Venue_Info.csv │   └── Awards.csv ├── visuals/ │   └── screenshots/ ├── IPL_2008_2025_Dashboard.pbix └── README.md
 
 ---
 
-## 💡 Learnings & Skills Applied
-
-- Advanced DAX for performance metrics  
-
-- Dashboard storytelling & layout best practices  
-
-- Predictive analytics using Power BI native features  
-
-- Interactive design: drillthrough, slicers, and tooltips  
-
-- Portfolio-ready presentation with branded documentation
 
 ---
 
-## 📎 How to Use
+## 📊 Dashboard Highlights
 
-1. Download or clone this repo  
+| Feature                  | Description                                                  |
+|--------------------------|--------------------------------------------------------------|
+| Season Overview          | Total matches, runs, wickets, sixes, fours, MVPs             |
+| Team Performance         | Win/loss stats, rankings, net run rate                       |
+| Player Insights          | Orange/Purple Cap holders, top performers                    |
+| Drillthrough Pages       | Deep dive into individual teams and players                  |
+| Dynamic UX               | Slicers, bookmarks, tooltips, and responsive visuals         |
 
-2. Open the `.pbix` file using Power BI Desktop  
+---
 
-3. Connect your own dataset if needed  
+## 🧠 Skills Demonstrated
 
-4. Explore visuals, filters, and forecasting features  
+- ✅ Power Query for data cleaning and transformation  
+- ✅ Advanced DAX (e.g., `CALCULATE`, `RANKX`, `SWITCH`)  
+- ✅ Data modeling with multiple related tables  
+- ✅ UX design with bookmarks, tooltips, and drillthroughs  
+- ✅ KPI cards, matrix tables, and dynamic charts  
+- ✅ Portfolio-ready dashboard polish and layout
+
+---
+
+## 📥 How to Use
+
+1. Clone or download this repository.  
+2. Open `.pbix` file in Power BI Desktop.  
+3. Use slicers to filter by season, team, or player.  
+4. Explore drillthrough pages and bookmark navigation.  
+5. Customize visuals or extend analysis as needed.
+
+---
+
+## 🙏 Credits & Attribution
+
+- 📡 Data Source: IPL datasets (public/simulated)  
+- 🎨 Visual Inspiration: Power BI Community & YouTube Creators  
+- 📢 Tutorial by: [Data Tutorials – YouTube](https://www.youtube.com/@DataTutorials)
+
+---
+
+## ⚠️ Disclaimer
+
+All logos, images, and datasets belong to their respective owners. This project is for educational and portfolio purposes only. Redistribution or commercial use is prohibited.
+
+---
