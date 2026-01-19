@@ -7,11 +7,11 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ## 🚀 Featured Projects
 
-### 1. ISRO Space Missions Analysis
+### 1. Office Supplies Sales Dashboard
 
-- **Goal:** Visualize mission outcomes, timelines, and success rates to understand ISRO’s growth and performance.  
-- **Skills:** Power BI modeling, DAX, slicers, storytelling  
-- **Branch:** `isro-space-missions-analysis`
+- **Goal:** Analyze office supplies sales data to identify trends, KPIs, and forecasting insights for business growth.  
+- **Skills:** Power BI dashboard design, KPI calculation, forecasting, data cleaning  
+- **Branch:** `sales-forecasting-dashboard`
 
 ---
 
@@ -39,11 +39,11 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ---
 
-### 5. COVID-19 Dashboard
+### 5. Global Air Pollution Project
 
-- **Goal:** Visualize case trends, recovery rates, and vaccination progress with interactive filters.  
-- **Skills:** Data modeling, Power BI dashboard design  
-- **Branch:** `covid19-dashboard`
+- **Goal:** Analyze global air pollution levels, trends, and health impacts using interactive Power BI dashboards.  
+- **Skills:** Data modeling, environmental data visualization, Power BI dashboard design  
+- **Branch:** `global-air-pollution-project`
 
 ---
 
