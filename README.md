@@ -7,23 +7,31 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ## 🚀 Featured Projects
 
-### 1. Office Supplies Sales Dashboard
+### 1. IPL Analysis
+
+- **Goal:** Analyze IPL match data and social media engagement to uncover team performance and fan trends.  
+- **Skills:** Power BI dashboard design, social media metrics, visualization, storytelling  
+- **Branch:** `ipl-analysis`
+
+---
+
+### 2. Gaming Platform Analysis
+
+- **Goal:** Explore gaming platform sales, user engagement, and market share trends across regions.  
+- **Skills:** Data modeling, Power BI visualization, comparative analysis  
+- **Branch:** `gaming-platform-analysis`
+
+---
+
+### 3. Office Supplies Sales Project
 
 - **Goal:** Analyze office supplies sales data to identify trends, KPIs, and forecasting insights for business growth.  
 - **Skills:** Power BI dashboard design, KPI calculation, forecasting, data cleaning  
-- **Branch:** `sales-forecasting-dashboard`
+- **Branch:** `office-supplies-sales`
 
 ---
 
-### 2. Sales Forecasting & Analysis Dashboard
-
-- **Goal:** Analyze KPIs, regional sales trends, and predictive insights for business decision-making.  
-- **Skills:** KPI calculation, forecasting, dashboard design  
-- **Branch:** `sales-forecasting-dashboard`
-
----
-
-### 3. Spotify Analysis Dashboard
+### 4. Spotify Analysis
 
 - **Goal:** Explore audio features, top artists, genres, and track trends using Spotify dataset.  
 - **Skills:** Data cleaning, Power BI visualization, filters  
@@ -31,19 +39,11 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ---
 
-### 4. IPL Social Media Dashboard
+### 5. ISRO Space Missions Analysis
 
-- **Goal:** Track engagement across official IPL accounts (Twitter, Instagram, Facebook) and compare cross-platform trends.  
-- **Skills:** Social media research, visualization, storytelling  
-- **Branch:** `ipl-social-media-dashboard`
-
----
-
-### 5. Global Air Pollution Project
-
-- **Goal:** Analyze global air pollution levels, trends, and health impacts using interactive Power BI dashboards.  
-- **Skills:** Data modeling, environmental data visualization, Power BI dashboard design  
-- **Branch:** `global-air-pollution-project`
+- **Goal:** Visualize mission outcomes, timelines, and success rates to understand ISRO’s growth and performance.  
+- **Skills:** Power BI modeling, DAX, slicers, storytelling  
+- **Branch:** `isro-space-missions-analysis`
 
 ---
 
