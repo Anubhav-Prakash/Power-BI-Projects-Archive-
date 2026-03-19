@@ -5,6 +5,25 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ---
 
+## 📑 Index
+
+1. [IPL Analysis](#1-ipl-analysis)  
+   `ipl-analysis`
+
+2. [Gaming Platform Analysis](#2-gaming-platform-analysis)  
+   `gaming-platform-analysis`
+
+3. [Office Supplies Sales Project](#3-office-supplies-sales-project)  
+   `office-supplies-sales`
+
+4. [Spotify Analysis](#4-spotify-analysis)  
+   `spotify-analysis`
+
+5. [ISRO Space Missions Analysis](#5-isro-space-missions-analysis)  
+   `isro-space-missions-analysis`
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1. IPL Analysis
