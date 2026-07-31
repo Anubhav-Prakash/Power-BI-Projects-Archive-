@@ -28,6 +28,9 @@ This repository serves as a central hub showcasing multiple real-world projects,
 7. [Mobile Phone Sales Analysis](#7-mobile-phone-sales-analysis)  
    `Mobile-Phone-Sales-Analysis`
 
+8. [Global Air Pollution Analysis](#8-global-air-pollution-analysis)  
+   `Global-Air-Pollution-Analysis`
+
 ---
 
 ## 🚀 Featured Projects
@@ -66,7 +69,7 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ### 5. ISRO Space Missions Analysis
 
-- **Goal:** Visualize mission outcomes, timelines, and success rates to understand ISRO’s growth and performance.  
+- **Goal:** Visualize mission outcomes, timelines, and success rates to understand ISRO's growth and performance.  
 - **Skills:** Power BI modeling, DAX, slicers, storytelling  
 - **Branch:** `ISRO-Space-Missions-Analysis`
 
@@ -88,17 +91,25 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ---
 
+### 8. Global Air Pollution Analysis
+
+- **Goal:** Visualize global air pollution patterns, trends, and regional comparisons to identify environmental hotspots and temporal variations in air quality metrics.  
+- **Skills:** Power BI geospatial visualization, time-series analysis, environmental data modeling, interactive dashboards  
+- **Branch:** `Global-Air-Pollution-Analysis`
+
+---
+
 ## 📦 How to Use
 
 1. Switch to the project branch you want to explore.  
 2. Open the `.pbix` file in **Power BI Desktop**.  
-3. Review the branch’s README for dataset details and screenshots.
+3. Review the branch's README for dataset details and screenshots.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m **Anubhav Prakash**, a Business Analyst specializing in **Power BI, Excel, and SQL**.   
+I'm **Anubhav Prakash**, a Business Analyst specializing in **Power BI, Excel, and SQL**.   
 
  🌐 [LinkedIn](https://www.linkedin.com/in/anubhav-prakash-analyst)
 
