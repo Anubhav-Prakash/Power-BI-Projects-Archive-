@@ -22,6 +22,9 @@ This repository serves as a central hub showcasing multiple real-world projects,
 5. [ISRO Space Missions Analysis](#5-isro-space-missions-analysis)  
    `isro-space-missions-analysis`
 
+6. [Flipkart Analysis](#6-flipkart-analysis)  
+   `Flipkart-Analysis`
+
 ---
 
 ## 🚀 Featured Projects
@@ -66,11 +69,19 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 ---
 
+### 6. Flipkart Analysis
+
+- **Goal:** Analyze Flipkart sales and marketplace data to uncover product, category, and regional performance, customer purchase patterns, and seller dynamics.  
+- **Skills:** Power BI data modeling, DAX measures, time-intelligence, interactive visuals, market-basket analysis, segmentation  
+- **Branch:** `Flipkart-Analysis`
+
+---
+
 ## 📦 How to Use
 
 1. Switch to the project branch you want to explore.  
 2. Open the `.pbix` file in **Power BI Desktop**.  
-3. Review the branch’s README for dataset details and screenshots.  
+3. Review the branch’s README for dataset details and screenshots.
 
 ---
 
