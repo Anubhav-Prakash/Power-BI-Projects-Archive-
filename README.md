@@ -8,22 +8,25 @@ This repository serves as a central hub showcasing multiple real-world projects,
 ## 📑 Index
 
 1. [IPL Analysis](#1-ipl-analysis)  
-   `ipl-analysis`
+   `IPL-(-2008-2025-)-Analysis`
 
 2. [Gaming Platform Analysis](#2-gaming-platform-analysis)  
-   `gaming-platform-analysis`
+   `Gaming-Platform-Analysis`
 
 3. [Office Supplies Sales Project](#3-office-supplies-sales-project)  
-   `office-supplies-sales`
+   `Office-Supplies-Sales`
 
 4. [Spotify Analysis](#4-spotify-analysis)  
-   `spotify-analysis`
+   `Spotify-Analysis`
 
 5. [ISRO Space Missions Analysis](#5-isro-space-missions-analysis)  
-   `isro-space-missions-analysis`
+   `ISRO-Space-Missions-Analysis`
 
 6. [Flipkart Analysis](#6-flipkart-analysis)  
    `Flipkart-Analysis`
+
+7. [Mobile Phone Sales Analysis](#7-mobile-phone-sales-analysis)  
+   `Mobile-Phone-Sales-Analysis`
 
 ---
 
@@ -33,7 +36,7 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 - **Goal:** Analyze IPL match data and social media engagement to uncover team performance and fan trends.  
 - **Skills:** Power BI dashboard design, social media metrics, visualization, storytelling  
-- **Branch:** `ipl-analysis`
+- **Branch:** `IPL-(-2008-2025-)-Analysis`
 
 ---
 
@@ -41,7 +44,7 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 - **Goal:** Explore gaming platform sales, user engagement, and market share trends across regions.  
 - **Skills:** Data modeling, Power BI visualization, comparative analysis  
-- **Branch:** `gaming-platform-analysis`
+- **Branch:** `Gaming-Platform-Analysis`
 
 ---
 
@@ -49,7 +52,7 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 - **Goal:** Analyze office supplies sales data to identify trends, KPIs, and forecasting insights for business growth.  
 - **Skills:** Power BI dashboard design, KPI calculation, forecasting, data cleaning  
-- **Branch:** `office-supplies-sales`
+- **Branch:** `Office-Supplies-Sales`
 
 ---
 
@@ -57,7 +60,7 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 - **Goal:** Explore audio features, top artists, genres, and track trends using Spotify dataset.  
 - **Skills:** Data cleaning, Power BI visualization, filters  
-- **Branch:** `spotify-analysis`
+- **Branch:** `Spotify-Analysis`
 
 ---
 
@@ -65,7 +68,7 @@ This repository serves as a central hub showcasing multiple real-world projects,
 
 - **Goal:** Visualize mission outcomes, timelines, and success rates to understand ISRO’s growth and performance.  
 - **Skills:** Power BI modeling, DAX, slicers, storytelling  
-- **Branch:** `isro-space-missions-analysis`
+- **Branch:** `ISRO-Space-Missions-Analysis`
 
 ---
 
@@ -74,6 +77,14 @@ This repository serves as a central hub showcasing multiple real-world projects,
 - **Goal:** Analyze Flipkart sales and marketplace data to uncover product, category, and regional performance, customer purchase patterns, and seller dynamics.  
 - **Skills:** Power BI data modeling, DAX measures, time-intelligence, interactive visuals, market-basket analysis, segmentation  
 - **Branch:** `Flipkart-Analysis`
+
+---
+
+### 7. Mobile Phone Sales Analysis
+
+- **Goal:** Analyze mobile phone sales to surface device-level trends, brand and model performance, pricing sensitivity, regional demand, and channel comparisons (online vs offline).  
+- **Skills:** Power BI modeling, time-series analysis, pricing/elasticity insights, map visuals, comparative cohort analysis  
+- **Branch:** `Mobile-Phone-Sales-Analysis`
 
 ---
 
